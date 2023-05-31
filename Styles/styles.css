@@ -1,0 +1,18 @@
+body {
+  font-family: "Arial", sans-serif; /* Fuente del texto de la página */
+  background-color: #f5f5f5; /* Color de fondo de la página */
+  margin: 0; /* Elimina el margen predeterminado */
+  padding: 0; /* Elimina el relleno predeterminado */
+}
+
+header {
+  background-color: #333; /* Color de fondo del encabezado */
+  padding: 20px; /* Espacio alrededor del contenido del encabezado */
+  color: white; /* Color del texto del encabezado */
+}
+
+h1 {
+  font-family: "Georgia", serif; /* Fuente del título principal */
+  font-size: 36px; /* Tamaño del título principal */
+  margin: 0; /* Elimina el margen superior e inferior del título */
+}
